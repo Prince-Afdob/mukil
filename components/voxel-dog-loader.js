@@ -6,7 +6,7 @@ export const DogSpinner = () => (
     size="xl"
     position="absolute"
     left="50%"
-    top="80%"
+    top="50%"
     ml="calc(0px - var(--spinner-size) / 2)"
     mt="calc(0px - var(--spinner-size))"
   />
