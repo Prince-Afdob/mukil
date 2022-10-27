@@ -1,0 +1,46 @@
+{
+  "name": "prince.portfolio",
+  "version": "1.0.0",
+  "description": "Prince Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev -H 0.0.0.0",
+    "build": "next build",
+    "prettier": "prettier -write .",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "Prince Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.8",
+    "@chakra-ui/react": "^2.3.6",
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@fontsource/open-sans": "^4.5.13",
+    "@fontsource/raleway": "^4.5.11",
+    "framer-motion": "^7.6.1",
+    "next": "^12.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.4.0",
+    "three": "^0.143.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.22.0",
+    "eslint-config-next": "^12.2.5",
+    "prettier": "^2.7.1"
+  },
+  "directories": {
+    "doc": "doc",
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prince-Afdob/prince.portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Prince-Afdob/prince.portfolio/issues"
+  },
+  "homepage": "https://github.com/Prince-Afdob/prince.portfolio#readme"
+}
